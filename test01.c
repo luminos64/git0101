@@ -2,7 +2,7 @@
 
 int	main(void)
 {
-    int x  = 10;
+    int name  = 10;
 	printf("Teat git in develop\n");
     return (0);
 }
